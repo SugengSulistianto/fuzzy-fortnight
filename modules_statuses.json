@@ -1,0 +1,6 @@
+{
+    "Shop": true,
+    "Seed": true,
+    "Product": true,
+    "ProductAttribute": true
+}
